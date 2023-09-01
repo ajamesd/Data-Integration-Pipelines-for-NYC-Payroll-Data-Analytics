@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "final-project-datafactoryajd"
+		},
+		"ls_adlsnycpayrollalexjdv1_accountKey": {
+			"value": ""
+		},
+		"ls_payrollsqldb_connectionString": {
+			"value": ""
+		},
+		"ls_synapse_sql_pool_connectionString": {
+			"value": ""
+		},
+		"ls_adlsnycpayrollalexjdv1_properties_typeProperties_url": {
+			"value": "https://adlsnycpayrollalexjdv1.dfs.core.windows.net/"
+		}
+	}
+}
