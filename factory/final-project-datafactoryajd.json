@@ -1,0 +1,9 @@
+{
+	"name": "final-project-datafactoryajd",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0972c6c-275d-4dc6-aca2-4652532353d1",
+		"tenantId": "c879e66b-a4b0-4ab7-862d-37dbc1442cd2"
+	}
+}
